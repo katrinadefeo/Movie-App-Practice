@@ -2,6 +2,8 @@
 
 This is a project that I am still learning from. I'm especially learning from the javascript. This project is also helping me learn more about APIs. It was a lot of fun for me to make since this looks like an app I would use everyday (ex. Netflix, Plex, etc...). 
 
+Thanks for checking this out!
+
 
 
 
